@@ -1,3 +1,7 @@
+#Кол-во разработчиков – 1
+#Кол-во веток – 1
+#Регулярность использования – 47
+#Кол-во копирований – 6
 from typing import List
 import numpy as np
 import faiss
